@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": "4",
+      "name": "Marli women",
+      "email": "marli@example.com",
+      "phone": "208466982"
+    },
+    {
+      "id": "1d14",
+      "name": "Hicham AIT-OUARAB",
+      "email": "hicham@gmail.com",
+      "phone": "0610403844"
+    },
+    {
+      "id": "5721",
+      "name": "Kamal AIT",
+      "email": "KAMAL@gmail.com",
+      "phone": "0619176718"
+    }
+  ]
+}
